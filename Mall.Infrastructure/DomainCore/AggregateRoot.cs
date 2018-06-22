@@ -5,6 +5,6 @@
     /// </summary>
     public abstract class AggregateRoot : Entity, IAloneStorable
     {
-
+        //测试Jenkins是否会自动构建
     }
 }
